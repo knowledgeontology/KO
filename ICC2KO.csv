@@ -1,0 +1,82 @@
+Information Coding Classification,Knowledge Ontology
+11 logic,Phylosophy
+12 mathematics,Mathematics
+13 statistics,Mathematics
+14 systems science,Mathematics
+"15 organization, science and technology",Mathematics
+16 metrology,Mathematics
+17 cybernetics,Mathematics
+18 standardization,Mathematics
+19 testing and controlling,Mathematics
+21 mechanics,Physics
+22 physics of matter,Physics
+23 general and technical physics,Physics
+24 electronic physics,Physics
+25 physical chemistry,Physics
+26 pure chemistry,Physics
+27 technological chemistry,Physics
+28 energy science and technology,Energy
+29 electrical engineering,Applied_science
+31 astronomy and astrophysics,Applied_science
+32 astronautics and space research,Applied_science
+33 basic geosciences,Applied_science
+34 meteorology,Applied_science
+35 hydrosphere and ocean sciences,Applied_science
+36 geology,Applied_science
+37 mining,Applied_science
+38 materials science and technology,Material
+39 geography,Physics
+41 basic biological sciences,Biology
+42 microbiology,Biology
+43 plant biology and cultivation,Applied_science
+44 animal biology and breeding,Applied_science
+45 veterinary science,Applied_science
+46 agriculture,agriculture
+47 forestry,Applied_science
+48 food sciences and technology,Applied_science
+49 ecology and environment,Biology
+51 human biology,medicine
+52 health care and theory,medicine
+53 pathology,medicine
+54 clinical medicine and natural cure,medicine
+55 psychology,Applied_cognitive_science
+56 education,Applied_cognitive_science
+"57 vocation, labour and leisure time",Applied_cognitive_science
+58 sports and physical education,Applied_cognitive_science
+59 household and home life,Applied_social_science
+61 sociology,Applied_social_science
+62 state and politics,Applied_social_science
+63 public administration,Applied_social_science
+64 money and finance,Applied_social_science
+65 social assistance,Applied_social_science
+66 law,Applied_social_science
+67 areal planification and urbanism,Applied_social_science
+68 defense,Applied_social_science
+69 history,Pure methods
+71 Macro-economics,Applied_social_science
+72 business economics,Applied_social_science
+73 technical sciences,Pure_Technology
+74 mechanical engineering,Applied_natural_science
+75 building and civil engineering,Applied_natural_science
+76 science and technology of commodities,Applied_natural_science
+77 engine science and technology,Applied_natural_science
+78 traffic and transportation,Applied_natural_science
+79 services and benefits,Applied_natural_science
+81 science of science,Science
+82 information sciences,Information
+83 computer science,Computer Science
+84 information in general,Applied_science
+85 communication,Applied_science
+86 mass communication,Applied_science
+87 printing and publishing,Applied_science
+88 telecommunication,Applied_science
+89 semiotics,Applied_science
+91 language and linguistics,Languages
+92 literature and philology,Arts
+93 music and musicology,Arts
+94 fine arts,Arts
+95 theatre,Applied_arts
+"96 culture science, in the narrow sense",Anthropology
+97 philosophy,Philosophy
+98 religion (in general),Religion
+99 Christian religion and theology,Religion

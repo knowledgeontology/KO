@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#"
+     xml:base="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#AI_applications -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#AI_applications">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Anthropology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Anthropology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Theory"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applications -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applications">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_World"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_Religions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_Religions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_Life"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_Life"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_cognitive_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_cognitive_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_natural_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_natural_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_Life"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_social_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_social_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_Neural_Networks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_Neural_Networks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Maching_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_World -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_World">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Disvovered_World"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Computer_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Theory"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Biology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Biology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Natural_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Cognitive_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Cognitive_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Computer_Science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Computer_Science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Information"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Computing_Vision -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Computing_Vision">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#AI_applications"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Disvovered_World -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Disvovered_World"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Energy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Energy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Technology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Esthetics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Esthetics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Philosophy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Information -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Information">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Technology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Knowledge_Graph -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Knowledge_Graph">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Maching_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Languages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Languages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Methods"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Maching_Learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Maching_Learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Material -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Material">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Technology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Mathematics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Mathematics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Philosophy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Natural_language_processing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Natural_language_processing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#AI_applications"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Natural_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Natural_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Occupation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Occupation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_Life"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Personal_Life -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Personal_Life">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applications"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Philosophy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Philosophy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Methods"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Physics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Physics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Natural_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Methods -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Methods"/>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Technology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Technology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Disvovered_World"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Theory -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Theory">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Artificial_World"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Religions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Religions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Theory"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Robotics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Robotics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Technology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Theory"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science_of_Knowledge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science_of_Knowledge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Pure_Methods"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_Life -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_Life">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applications"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Social_science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Statistic_Learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Statistic_Learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Maching_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#agriculture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#agriculture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_natural_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#medicine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#medicine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#Applied_natural_science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#voice_recognition -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#voice_recognition">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/administrator/ontologies/2019/1/untitled-ontology-3#AI_applications"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
